@@ -127,7 +127,7 @@ priced separately to the scope of The Work.
 ## Payment
 
 Being a small and, currently, a fledgling business, cash flow is very important
-to CSS Wizardry. As such, it is asked that You meet the payment terms outlined
+to Adyus LLC. As such, it is asked that You meet the payment terms outlined
 below.
 
 ### Deposit
@@ -167,7 +167,7 @@ and after The Work.
 The undersigned confirm that they have read, understood, and shall adhere to the
 terms laid out in this document:
 
-* **Harry Roberts:**
+* **Andrei Popovici:**
 * **Date:**
 
 * **You:**
