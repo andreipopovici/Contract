@@ -9,8 +9,8 @@
   development work, a conference talk.
 * **‘You’** refers to the client or company on behalf of whom The Work is
   commissioned.
-* **‘I’** refers to me, Harry Roberts, working for You on behalf of CSS Wizardry
-  Ltd.
+* **‘I’** refers to me, Andrei Popovici, working for You on behalf of Adyus
+  LLC.
 
 ## About this document
 
@@ -34,7 +34,7 @@ signing the document. Each project I undertake will have its own individual
 nuances and requirements, so I am able and willing to modify this document to
 suit the needs of each project.
 
-In summary, The Client is contracting CSS Wizardry Ltd. to complete
+In summary, The Client is contracting Adyus LLC. to complete
 work outlined within this document and/or other documents in accordance with
 agreed briefs, specifications, costs and deadlines.
 
@@ -44,7 +44,7 @@ Now, let’s do great work together!
 
 ## Involved parties
 
-**Harry Roberts, ‘CSS Wizardry’, ‘I’:**
+**Andrei Popovici, ‘Adyus LLC.’, ‘I’:**
 
 [Address]
 
